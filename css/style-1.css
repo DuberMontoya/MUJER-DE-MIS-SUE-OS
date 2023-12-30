@@ -6,8 +6,7 @@
 @media (max-width: 400px){
     #container{
         color: white;
-        background-color: aquamarine;
-        width: 100%;
+        background-color:darkcyan;
         padding: 20px;
         text-align: center;
     }
@@ -23,7 +22,7 @@
     }
     p{
         width: 100%;
-        font-size: 18px;
+        font-size: 20px;
         padding-bottom: 25px;
         border-bottom: 1px solid whitesmoke;
     }
@@ -32,7 +31,7 @@
     }
     button a{
         text-decoration: none;
-        color: aquamarine;
+        color: darkcyan;
     }
     button{
         background: white;
