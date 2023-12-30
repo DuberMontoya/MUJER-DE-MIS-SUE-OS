@@ -5,6 +5,7 @@
 }
 @media (max-width: 400px){
     #container{
+        height: 900px;
         color: white;
         background-color: darkcyan;
         text-align: center;
