@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+@media (max-width: 400px){
+    #container{
+        color: white;
+        background-color: aquamarine;
+        text-align: center;
+        padding: 20px;
+    }
+    h2{
+        font-size: 30px;
+        font-weight: 600;
+        padding-bottom: 50px;
+    }
+    h4{
+        font-size: 17px;
+        font-weight: 600;
+        padding-bottom: 30px;
+    }
+    video{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    button a{
+        text-decoration: none;
+        color: aquamarine;
+    }
+    button{
+        background: white;
+        padding: 16px 40px;
+        border: none;
+        border-radius: 28px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+}
