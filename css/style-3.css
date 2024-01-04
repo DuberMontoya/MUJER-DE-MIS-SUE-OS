@@ -5,33 +5,127 @@
 }
 @media (max-width: 400px){
     #container{
-        height: 900px;
         color: white;
-        background-color: darkcyan;
+        background-color: black;
         text-align: center;
         padding: 20px;
+    }
+    p{
+        font-size: 40px;
+        font-weight: 600;
+        padding-bottom: 20px;
+    }
+    h1{
+        font-size: 22px;
+        font-weight: 600;
+        padding-bottom: 60px;
     }
     h2{
         font-size: 30px;
         font-weight: 600;
         padding-bottom: 50px;
     }
+    h3{
+        padding-top: 475px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    #octavo h3{
+        padding-top: 360px;
+        font-size: 20px;
+        font-weight: 600;
+    }
     h4{
         font-size: 17px;
         font-weight: 600;
         padding-bottom: 30px;
     }
+    #primero{
+        height: 595px;
+        padding: 0 15px;
+        margin: 3px 0;
+        background-image: url(../Fotos/1.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #segundo{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/2.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #tercero{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/3.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #cuarto{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/4.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #quinto{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/5.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #sexto{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/6.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #septimo{
+        height: 595px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/7.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #octavo{
+        height: 447px;
+        padding: 0 20px;
+        margin: 3px 0;
+        background-image: url(../Fotos/8.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #video{
+        height: 595px;
+        padding-bottom: 50px;
+        background-image: url(../Fotos/IMG-20230226-WA0184.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
     video{
         width: 100%;
+        padding-top: 198px;
+    }
+    #video-2 video{
+        padding: 0;
         padding-bottom: 30px;
     }
     button a{
         text-decoration: none;
-        color: darkcyan;
+        color: black;
     }
     button{
         background: white;
-        padding: 16px 40px;
+        padding: 10px 20px;
         border: none;
         border-radius: 28px;
         font-size: 15px;
